@@ -20,8 +20,3 @@ A simple To-Do app that allows users to add tasks, mark them as completed, and d
 
 You need to have a browser to view the app.
 
-### Steps to Run:
-
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/todo-app.git
