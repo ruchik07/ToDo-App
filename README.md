@@ -15,8 +15,8 @@ A simple To-Do app that allows users to add tasks, mark them as completed, and d
 - **JavaScript**: For adding interactivity, such as adding tasks, marking them as completed, and removing them.
 
 ## How to Run Locally
+ site is live at https://ruchik07.github.io/ToDo-App/
 
 ### Prerequisites
 
 You need to have a browser to view the app.
-
